@@ -1099,6 +1099,37 @@ a {
 .cid-t7dPySk141 .icon-title {
   color: #353535;
 }
+.cid-tfDrVR7Ftn {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-color: #abe4ff;
+}
+.cid-tfDrVR7Ftn .card-box {
+  z-index: 10;
+  position: relative;
+}
+@media (min-width: 1500px) {
+  .cid-tfDrVR7Ftn .container {
+    max-width: 1400px;
+  }
+}
+.cid-tfDrVR7Ftn .card {
+  margin: auto;
+}
+.cid-tfDrVR7Ftn .mbr-iconfont {
+  display: block;
+  font-size: 5rem;
+  color: #6592e6;
+  margin-bottom: 2rem;
+}
+.cid-tfDrVR7Ftn .card-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cid-tfDrVR7Ftn .row {
+  justify-content: center;
+}
 .cid-t8yWqYzw5E {
   padding-top: 4rem;
   padding-bottom: 4rem;
