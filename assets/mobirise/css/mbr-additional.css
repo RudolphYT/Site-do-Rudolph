@@ -1199,6 +1199,21 @@ a {
 .cid-t8z7qeycoO .card-title {
   text-align: left;
 }
+.cid-thOmtzHtZD {
+  background-image: url("../../../assets/images/wallpapercomputador.png");
+}
+.cid-thOmtzHtZD .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-thOmtzHtZD .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
 .cid-t8zaYXZhM5 {
   padding-top: 6rem;
   padding-bottom: 6rem;
