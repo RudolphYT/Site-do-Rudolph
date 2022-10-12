@@ -1063,6 +1063,23 @@ a {
 .cid-t7axWxXHiy .mbr-section-btn {
   color: #f6a80e;
 }
+.cid-tk5xQGp1LF {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/mbr.jpg");
+}
+.cid-tk5xQGp1LF .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tk5xQGp1LF .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
 .cid-t7dPySk141 {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1200,6 +1217,8 @@ a {
   text-align: left;
 }
 .cid-thOmtzHtZD {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
   background-image: url("../../../assets/images/wallpapercomputador.png");
 }
 .cid-thOmtzHtZD .mbr-fallback-image.disabled {
